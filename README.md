@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CourseGpt
 
 CourseGPT is an AI-powered educational platform that helps students and educators create, manage, and interact with course content using advanced AI capabilities.
